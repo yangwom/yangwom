@@ -41,7 +41,7 @@
 
 <h2>Git Hub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=yangwom">
-<img src="https://github-readme-stats.vercel.app/api ?username=yangwom&show_icons=true "/>
+<img src="https://github-readme-stats.vercel.app/api?username=yangwom&show_icons=true "/>
 
 
 
