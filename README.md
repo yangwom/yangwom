@@ -40,8 +40,8 @@
 
 
 <h2>Git Hub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=yangwom">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangwom"/>
+<img src="https://github-readme-stats.vercel.app/yangwom">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/yangwom"/>
 
 
 
