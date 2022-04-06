@@ -37,6 +37,7 @@
 <a href="https://www.instagram.com/yangflix/" >
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+ <a hfef="https://yangwom.github.io/portfolio-react.js/#/">Meu portfólio</a>
 
 
 <h2>Git Hub Stats</h2>
