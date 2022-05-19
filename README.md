@@ -9,7 +9,8 @@
 <h1>Pontos importantes</h1>
 
 <ul> 
-<li> <img align="center" alt="React" height="20" width="25"  style="max-width: 100%;"> Almejo me tornar um especialista front end </li>
+<li> <img align="center" alt="React"  src="![image](https://user-images.githubusercontent.com/90363090/169203016-71a3c838-88f8-4110-ab30-789f890cc603.png)
+" height="20" width="25"  style="max-width: 100%;"> Almejo me tornar um especialista front end </li>
 <li> 💪  Estou aberto para novos desafios. #AVANTE </li>
 <li> 🤣  Se eu estiver estressado, nas horas vagas vou jogar para relaxar, mas posso sair mais estressado ainda. 
 </li>
