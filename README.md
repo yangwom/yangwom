@@ -9,8 +9,7 @@
 <h1>Pontos importantes</h1>
 
 <ul> 
-<li> <img align="center" alt="React"  src="![image](https://user-images.githubusercontent.com/90363090/169203016-71a3c838-88f8-4110-ab30-789f890cc603.png)
-" height="20" width="25"  style="max-width: 100%;"> Almejo me tornar um especialista front end </li>
+<li> <img align="center" alt="React"  src="https://camo.githubusercontent.com/e84431cfbd9f7c44b1c20da1dde8ad407cbc31174844a428074d1e3b43faab8b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" height="20" width="25"  style="max-width: 100%;"> Almejo me tornar um especialista front end </li>
 <li> 💪  Estou aberto para novos desafios. #AVANTE </li>
 <li> 🤣  Se eu estiver estressado, nas horas vagas vou jogar para relaxar, mas posso sair mais estressado ainda. 
 </li>
