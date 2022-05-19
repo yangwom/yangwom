@@ -9,7 +9,7 @@
 <h1>Pontos importantes</h1>
 
 <ul> 
-<li> <img align="center" alt="React" height="20" width="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width: 100%;"> Almejo me tornar um especialista back end. </li>
+<li> <img align="center" alt="React" height="20" width="25"  style="max-width: 100%;"> Almejo me tornar um especialista front end </li>
 <li> 💪  Estou aberto para novos desafios. #AVANTE </li>
 <li> 🤣  Se eu estiver estressado, nas horas vagas vou jogar para relaxar, mas posso sair mais estressado ainda. 
 </li>
