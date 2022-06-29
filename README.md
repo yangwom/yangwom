@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/yang-vieira-8008b318a/" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/yangflix/" >
+<a href="https://www.instagram.com/yang.coding/" >
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
