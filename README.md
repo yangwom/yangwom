@@ -1,24 +1,23 @@
 
 
-<h1>Olá, seja bem vindo</h1>
+## Olá, seja bem vindo
 
-<h2> Sobre Mim </h2>
-<p>Nasci em Campo Grande/MS onde moro atualmente. Sou apaixonado por animes, gravar vídeos com animações, jogar clash royale, passear com minha família e amigos. Me tornei chefe de cozinha devido as dinâmicas e criatividades para fazer as comidas, e, por conta desse meu lado criativo, necessário para desenvolver aplicações web e para celular, me apaixonei por tecnologia. Hoje eu estudo Desenvolvimento Web Full Stack na Trybe e sonho em evoluir profissionalmente como um desenvolvedor, pois trabalhar com algo que se ama e sente prazer é uma realização incrível.
-</p>
+## Sobre Mim 
+Nasci em Campo Grande/MS onde moro atualmente. Sou apaixonado por animes, gravar vídeos com animações, jogar clash royale, passear com minha família e amigos. Me tornei chefe de cozinha devido as dinâmicas e criatividades para fazer as comidas, e, por conta desse meu lado criativo, necessário para desenvolver aplicações web e para celular, me apaixonei por tecnologia. Hoje eu estudo Desenvolvimento Web Full Stack na Trybe e sonho em evoluir profissionalmente como um desenvolvedor, pois trabalhar com algo que se ama e sente prazer é uma realização incrível.
 
-<h1>Pontos importantes</h1>
 
-<ul> 
-<li> <img align="center" alt="React"  src="https://camo.githubusercontent.com/e84431cfbd9f7c44b1c20da1dde8ad407cbc31174844a428074d1e3b43faab8b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" height="20" width="25"  style="max-width: 100%;"> Almejo me tornar um especialista front end </li>
-<li> 💪  Estou aberto para novos desafios. #AVANTE </li>
-<li> 🤣  Se eu estiver estressado, nas horas vagas vou jogar para relaxar, mas posso sair mais estressado ainda. 
-</li>
-<li> 😁  Pode me chamar de yan ou yang mas, gosto muito quando falam a pronuncia do meu nome,<strong>yan uan<strong></li>
+## Pontos importantes
 
-</ul>
 
-<h1> Tecnologias e Ferramentas </h1>
-<div  > <img align="center"  alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">  
+- :fire: Almejo me tornar um Desenvolvedor de alta performance
+- :muscle: Esto u aberto para novos desafios. #AVANTE </li>
+- :joy: Se eu estiver estressado, nas horas vagas vou jogar para relaxar, mas posso sair mais estressado ainda. 
+- :smiley: Pode me chamar de yan ou yang mas, gosto muito quando falam a pronuncia do meu nome,<strong>yan uan<strong></li>
+
+
+
+## Tecnologias e Ferramentas 
+<div > <img align="center"  alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">  
 <a align="center" target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"><img align="center" alt="Linux" height="40" width="50" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/89a4f052af35af3ae91139b0da6496483e00d4fb645589fc4d26cf95b42f8454/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667"><img align="center" alt="Html" height="40" width="50" src="https://camo.githubusercontent.com/89a4f052af35af3ae91139b0da6496483e00d4fb645589fc4d26cf95b42f8454/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b3ce9472d369cacc72c37b7be98298b051836c138eada89587178fbd41939043/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667"><img align="center" alt="Css" height="40" width="50" src="https://camo.githubusercontent.com/b3ce9472d369cacc72c37b7be98298b051836c138eada89587178fbd41939043/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width: 100%;">
@@ -28,7 +27,7 @@
 
 
 
-<h2>Redes sociais</h2>
+## Redes sociais
 <a href="https://www.linkedin.com/in/yang-vieira-8008b318a/" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -37,7 +36,7 @@
 </a>
 
 
-<h2>Git Hub Stats</h2>
+## Git Hub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=yangwom">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangwom"/>
 
