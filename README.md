@@ -1,6 +1,6 @@
 
 
-## Olá, seja bem vindo
+# Olá, seja bem vindo
 
 ## Sobre Mim 
 Nasci em Campo Grande/MS onde moro atualmente. Sou apaixonado por animes, gravar vídeos com animações, jogar clash royale, passear com minha família e amigos. Me tornei chefe de cozinha devido as dinâmicas e criatividades para fazer as comidas, e, por conta desse meu lado criativo, necessário para desenvolver aplicações web e para celular, me apaixonei por tecnologia. Hoje eu estudo Desenvolvimento Web Full Stack na Trybe e sonho em evoluir profissionalmente como um desenvolvedor, pois trabalhar com algo que se ama e sente prazer é uma realização incrível.
@@ -10,8 +10,7 @@ Nasci em Campo Grande/MS onde moro atualmente. Sou apaixonado por animes, gravar
 
 
 - :fire: Almejo me tornar um Desenvolvedor de alta performance
-- :muscle: Esto u aberto para novos desafios. #AVANTE </li>
-- :joy: Se eu estiver estressado, nas horas vagas vou jogar para relaxar, mas posso sair mais estressado ainda. 
+- :muscle: Estou aberto para novos desafios. #AVANTE </li>
 - :smiley: Pode me chamar de yan ou yang mas, gosto muito quando falam a pronuncia do meu nome,<strong>yan uan<strong></li>
 
 
