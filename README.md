@@ -9,7 +9,7 @@ Nasci em Campo Grande/MS onde moro atualmente. Sou apaixonado por animes, gravar
 ## Pontos importantes
 
 
-- :fire: Almejo me tornar um Desenvolvedor de alta performance
+- :fire: Almejo me tornar um Desenvolvedor Back-end de alta performance
 - :muscle: Estou aberto para novos desafios. #AVANTE </li>
 - :smiley: Pode me chamar de yan ou yang mas, gosto muito quando falam a pronuncia do meu nome,<strong>yan uan<strong></li>
 
