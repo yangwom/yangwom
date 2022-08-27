@@ -26,6 +26,8 @@ Nasci em Campo Grande/MS onde moro atualmente. Sou apaixonado por animes, gravar
   <img align="center" width="55" src="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67" data-canonical-src="https://testing-library.com/img/octopus-128x128.png"
    style="max-width: 100%;">
    <img src="./stack.png" align="center" style="max-width: 100%;" >
+   <img src="./success.jpg" align="center" style="max-width: 100%;" >
+ 
  
 </div>
 
